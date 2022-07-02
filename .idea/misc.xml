@@ -3,11 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/pemogramanTI.19.D3/RecyclerView/app/src/main/res/drawable/background_blue.xml" value="0.1475" />
+        <entry key="..\:/pemogramanTI.19.D3/RecyclerView/app/src/main/res/drawable/background_btn.xml" value="0.1475" />
         <entry key="..\:/pemogramanTI.19.D3/RecyclerView/app/src/main/res/layout/activity_main.xml" value="0.2033514492753623" />
+        <entry key="..\:/pemogramanTI.19.D3/RecyclerView/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
         <entry key="..\:/pemogramanTI.19.D3/RecyclerView/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
         <entry key="..\:/pemogramanTI.19.D3/RecyclerView/app/src/main/res/layout/detail_data_pemain.xml" value="0.20416666666666666" />
         <entry key="..\:/pemogramanTI.19.D3/RecyclerView/app/src/main/res/layout/detail_nama_pemain.xml" value="0.20416666666666666" />
         <entry key="..\:/pemogramanTI.19.D3/RecyclerView/app/src/main/res/layout/list_item_pemain.xml" value="0.2033514492753623" />
+        <entry key="..\:/pemogramanTI.19.D3/RecyclerView/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
